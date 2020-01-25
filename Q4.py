@@ -70,7 +70,7 @@ def bag_of_word_encoding(sentence, word_collection):
   
 sentence = "wish for solitude he was twenty years of age "
 encoding_array = bag_of_word_encoding(sentence, word_collection)
-#print(encoding_array)
+print(encoding_array)
 
 """
 Sample output:
